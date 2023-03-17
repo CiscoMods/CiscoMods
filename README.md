@@ -3,12 +3,12 @@
 <a href="https://prefech.com/discord" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/721339695199682611/widget.png"></a>
 
 
-I’m [JokeDevil](https://github.com/JokeDevil) a Dutch guy with a passion for gaming and programming.  
+I’m [Cisco Mods](https://github.com/CiscoMods) a guy with a passion for gaming and programming.  
 To be honest, little skill in either category.  
 However, that doesn’t stop me from loving both.  
 
 • 💬 Ask me about anything, I am happy to help;  
-• 📫 How to reach me: [Discord](https://prefech.com/discord);  
+• 📫 How to reach me: [Discord](https://ciscomodifications.net/discord);  
   
 **Languages and Tools:**  
 
@@ -22,4 +22,4 @@ However, that doesn’t stop me from loving both.
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
   
-<a href="https://bmc.xyz/JokeDevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/Cisco1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
